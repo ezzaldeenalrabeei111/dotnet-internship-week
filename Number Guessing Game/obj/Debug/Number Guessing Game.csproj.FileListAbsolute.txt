@@ -1,0 +1,7 @@
+E:\New folder\week1\Number Guessing Game\bin\Debug\Number Guessing Game.exe.config
+E:\New folder\week1\Number Guessing Game\bin\Debug\Number Guessing Game.exe
+E:\New folder\week1\Number Guessing Game\bin\Debug\Number Guessing Game.pdb
+E:\New folder\week1\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.AssemblyReference.cache
+E:\New folder\week1\Number Guessing Game\obj\Debug\Number Guessing Game.csproj.CoreCompileInputs.cache
+E:\New folder\week1\Number Guessing Game\obj\Debug\Number Guessing Game.exe
+E:\New folder\week1\Number Guessing Game\obj\Debug\Number Guessing Game.pdb

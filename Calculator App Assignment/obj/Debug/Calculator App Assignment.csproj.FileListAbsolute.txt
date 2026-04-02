@@ -1,0 +1,7 @@
+E:\New folder\week1\Calculator App Assignment\bin\Debug\Calculator App Assignment.exe.config
+E:\New folder\week1\Calculator App Assignment\bin\Debug\Calculator App Assignment.exe
+E:\New folder\week1\Calculator App Assignment\bin\Debug\Calculator App Assignment.pdb
+E:\New folder\week1\Calculator App Assignment\obj\Debug\Calculator App Assignment.csproj.AssemblyReference.cache
+E:\New folder\week1\Calculator App Assignment\obj\Debug\Calculator App Assignment.csproj.CoreCompileInputs.cache
+E:\New folder\week1\Calculator App Assignment\obj\Debug\Calculator App Assignment.exe
+E:\New folder\week1\Calculator App Assignment\obj\Debug\Calculator App Assignment.pdb

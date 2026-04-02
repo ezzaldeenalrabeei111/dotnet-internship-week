@@ -1,0 +1,7 @@
+E:\New folder\week1\Loop Programs\bin\Debug\Loop Programs.exe.config
+E:\New folder\week1\Loop Programs\bin\Debug\Loop Programs.exe
+E:\New folder\week1\Loop Programs\bin\Debug\Loop Programs.pdb
+E:\New folder\week1\Loop Programs\obj\Debug\Loop Programs.csproj.AssemblyReference.cache
+E:\New folder\week1\Loop Programs\obj\Debug\Loop Programs.csproj.CoreCompileInputs.cache
+E:\New folder\week1\Loop Programs\obj\Debug\Loop Programs.exe
+E:\New folder\week1\Loop Programs\obj\Debug\Loop Programs.pdb

@@ -1,0 +1,7 @@
+E:\New folder\week1\Variable Practice\bin\Debug\Variable Practice.exe.config
+E:\New folder\week1\Variable Practice\bin\Debug\Variable Practice.exe
+E:\New folder\week1\Variable Practice\bin\Debug\Variable Practice.pdb
+E:\New folder\week1\Variable Practice\obj\Debug\Variable Practice.csproj.AssemblyReference.cache
+E:\New folder\week1\Variable Practice\obj\Debug\Variable Practice.csproj.CoreCompileInputs.cache
+E:\New folder\week1\Variable Practice\obj\Debug\Variable Practice.exe
+E:\New folder\week1\Variable Practice\obj\Debug\Variable Practice.pdb

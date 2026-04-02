@@ -1,0 +1,7 @@
+E:\New folder\week1\Conditional Programs\bin\Debug\Conditional Programs.exe.config
+E:\New folder\week1\Conditional Programs\bin\Debug\Conditional Programs.exe
+E:\New folder\week1\Conditional Programs\bin\Debug\Conditional Programs.pdb
+E:\New folder\week1\Conditional Programs\obj\Debug\Conditional Programs.csproj.AssemblyReference.cache
+E:\New folder\week1\Conditional Programs\obj\Debug\Conditional Programs.csproj.CoreCompileInputs.cache
+E:\New folder\week1\Conditional Programs\obj\Debug\Conditional Programs.exe
+E:\New folder\week1\Conditional Programs\obj\Debug\Conditional Programs.pdb

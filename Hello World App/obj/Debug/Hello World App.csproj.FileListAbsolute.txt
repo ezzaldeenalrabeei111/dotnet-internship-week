@@ -1,0 +1,7 @@
+E:\New folder\week1\Hello World App\bin\Debug\Hello World App.exe.config
+E:\New folder\week1\Hello World App\bin\Debug\Hello World App.exe
+E:\New folder\week1\Hello World App\bin\Debug\Hello World App.pdb
+E:\New folder\week1\Hello World App\obj\Debug\Hello World App.csproj.AssemblyReference.cache
+E:\New folder\week1\Hello World App\obj\Debug\Hello World App.csproj.CoreCompileInputs.cache
+E:\New folder\week1\Hello World App\obj\Debug\Hello World App.exe
+E:\New folder\week1\Hello World App\obj\Debug\Hello World App.pdb

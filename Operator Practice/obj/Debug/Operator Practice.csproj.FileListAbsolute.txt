@@ -1,0 +1,7 @@
+E:\New folder\week1\Operator Practice\bin\Debug\Operator Practice.exe.config
+E:\New folder\week1\Operator Practice\bin\Debug\Operator Practice.exe
+E:\New folder\week1\Operator Practice\bin\Debug\Operator Practice.pdb
+E:\New folder\week1\Operator Practice\obj\Debug\Operator Practice.csproj.AssemblyReference.cache
+E:\New folder\week1\Operator Practice\obj\Debug\Operator Practice.csproj.CoreCompileInputs.cache
+E:\New folder\week1\Operator Practice\obj\Debug\Operator Practice.exe
+E:\New folder\week1\Operator Practice\obj\Debug\Operator Practice.pdb

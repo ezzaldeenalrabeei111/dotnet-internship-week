@@ -1,0 +1,7 @@
+E:\New folder\week1\Array Programs\bin\Debug\Array Programs.exe.config
+E:\New folder\week1\Array Programs\bin\Debug\Array Programs.exe
+E:\New folder\week1\Array Programs\bin\Debug\Array Programs.pdb
+E:\New folder\week1\Array Programs\obj\Debug\Array Programs.csproj.AssemblyReference.cache
+E:\New folder\week1\Array Programs\obj\Debug\Array Programs.csproj.CoreCompileInputs.cache
+E:\New folder\week1\Array Programs\obj\Debug\Array Programs.exe
+E:\New folder\week1\Array Programs\obj\Debug\Array Programs.pdb

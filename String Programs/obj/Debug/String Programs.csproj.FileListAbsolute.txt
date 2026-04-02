@@ -1,0 +1,7 @@
+E:\New folder\week1\String Programs\bin\Debug\String Programs.exe.config
+E:\New folder\week1\String Programs\bin\Debug\String Programs.exe
+E:\New folder\week1\String Programs\bin\Debug\String Programs.pdb
+E:\New folder\week1\String Programs\obj\Debug\String Programs.csproj.AssemblyReference.cache
+E:\New folder\week1\String Programs\obj\Debug\String Programs.csproj.CoreCompileInputs.cache
+E:\New folder\week1\String Programs\obj\Debug\String Programs.exe
+E:\New folder\week1\String Programs\obj\Debug\String Programs.pdb
